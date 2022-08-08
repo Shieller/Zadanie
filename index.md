@@ -58,3 +58,8 @@ git branch -d <название ветки>
 git menge <название ветки>
 ```
 
+## Клонирование репозитория 
+```
+git clone <repository_url>
+```
+
