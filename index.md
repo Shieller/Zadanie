@@ -67,3 +67,7 @@ git clone <repository_url>
  ```
 git pull
  ```
+## Отправка изменений в удаленном репозиторий 
+```
+git push
+```
