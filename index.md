@@ -71,3 +71,7 @@ git pull
 ```
 git push
 ```
+##Просмотр лога репозитория 
+```
+git log --graph --all
+```
